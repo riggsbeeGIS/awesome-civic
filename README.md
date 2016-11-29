@@ -47,6 +47,7 @@ Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://git
 - [Google Maps](https://developers.google.com/maps/) – The de facto Javascript mapping library.
 - [LeafletJS](http://leafletjs.com/) – An alternative, open-source Javascript mapping library.
 - [Mapbox](https://www.mapbox.com/) – A themed, cloud-hosted LeafletJS implementation.
+- [Odyssey.js](http://cartodb.github.io/odyssey.js/) - A open-source solution for interactive story mapping.
 
 **Tools**
 
@@ -54,6 +55,7 @@ Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://git
 - [Google Maps geojson Editor](https://google-developers.appspot.com/maps/documentation/utils/geojson/) - A tool to prune and move GeoJSON points on a map.
 - [Map Shaper](http://www.mapshaper.org/) – A tool to optimize your GeoJSON files to increase pageload times.
 - [Map Starter](http://www.mapstarter.com/) – A GUI to intuitively manipulate and export a GeoJSON/TopoJSON file.
+- [Leaflet Provider](https://leaflet-extras.github.io/leaflet-providers/preview/) - A collection of basemaps for use with Javascript mapping library.
 
 ## Applications
 
